@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@vtex/react-csv-parse": "^2.0.0-beta.1",
     "axios": "^0.18.0",
+    "bootstrap": "^4.0.0",
     "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-csv-reader": "^0.2.2",
     "react-dom": "^16.2.0",
-    "react-file-reader": "^1.1.4",
-    "react-file-reader-input": "^1.1.4",
     "react-linechart": "^1.1.12",
     "react-scripts": "1.1.1"
   },

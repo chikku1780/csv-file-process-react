@@ -6,7 +6,7 @@ import SampleLineChart from './LineChart';
 
 const colors = ['green', 'blue', 'black', 'yellow'];
 
-class NewFileUpload extends React.Component {
+class FileUploadSection extends React.Component {
 
     constructor(props) {
         super(props);
@@ -66,4 +66,4 @@ class NewFileUpload extends React.Component {
     }
 }
 
-export default NewFileUpload;
+export default FileUploadSection;

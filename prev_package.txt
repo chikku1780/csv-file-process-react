@@ -1,0 +1,3 @@
+    "react-file-reader": "^1.1.4",
+    "react-file-reader-input": "^1.1.4",
+    "@vtex/react-csv-parse": "^2.0.0-beta.1",
